@@ -1,6 +1,10 @@
 theme: jekyll-theme-hacker
 
+name: JiangShen's homepage
 title: JiangShen's homepage
 description: JiangShen's personal homepage.
 
 email: jiangshen@smail.nju.edu.cn
+
+owner: JiangShen
+year: 2022
